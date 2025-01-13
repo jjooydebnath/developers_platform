@@ -1,4 +1,4 @@
-# :computer: Developers Platform - Connect With Developers From Around The World!
+# :computer: Developers Platform!
 
 ### Technologies Stack
 - Django
